@@ -35,7 +35,7 @@ class DetailViewController: UIViewController {
         }
     }
     
-    func dealloc() {
+    deinit {
         self.stopAutomaticallyAdjustingAdditionalSafeAreaInsets(observation: self.observation)
     }
 }
