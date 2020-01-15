@@ -1,6 +1,8 @@
 //
-//  Created by Zsombor Szabo on 14/01/2020.
-//  
+// Copyright © 2020 IZE Ltd. and the project authors
+// Licensed under MIT License
+//
+// See LICENSE.txt for license information.
 //
 
 import Foundation

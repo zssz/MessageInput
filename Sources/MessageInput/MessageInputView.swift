@@ -1,6 +1,8 @@
 //
-//  Created by Zsombor SZABO on 08/09/2017.
-//  Copyright © 2017 IZE. All rights reserved.
+// Copyright © 2020 IZE Ltd. and the project authors
+// Licensed under MIT License
+//
+// See LICENSE.txt for license information.
 //
 
 import UIKit
